@@ -1,0 +1,49 @@
+FINISH ORGANIZING
+
+make save stuff fluid with calendar
+
+
+
+										lineups
+
+										training
+
+										transfers
+
+										emails
+
+
+
+
+
+
+CURRENT TASK: LINEUPS
+
+get andrew to make player view screen
+
+make function for sorting what players would be highest rated for a sub on a team
+
+find some way to locate where each jersey is
+
+make function for displaying player names above jersey icons
+
+
+
+
+
+
+
+
+
+
+LATER:
+
+MAKE BAD STRIKERS NOT SCORE
+
+FIX BAD CODING FOR THE STRING2 MENU STUFF ITS SO DUMB AND UNNECESSARY TO RENDER TEXT MULTIPLE TIMES
+
+MAYBE MAKE A SCREEN WHERE YOU CAN SEE OTHER TEAMS LINEUP
+
+MAYBE ADD CLICKING SOUNDS AFTER BUTTON CLICKED
+
+
